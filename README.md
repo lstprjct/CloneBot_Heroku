@@ -115,7 +115,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 
 ## 🗡️ Deploying on Scalingo
 
-[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/tiararosebiezetta/CloneBot_Scalingo)
+[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/lstprjct/CloneBot_Heroku)
 
 <br>This Service provides enough resources so that the Bot can run for 30 days without the need to add CC.<b><br/>Scalingo does not restart App every 24 hours meaning you can clone large data which can run for days at a time </b><br><br>
 
